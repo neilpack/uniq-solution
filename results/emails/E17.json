@@ -1,0 +1,29 @@
+{
+    "email_id":  "E17",
+    "received_at":  "2027-03-08 10:05",
+    "from_name":  "Mele Fonoti",
+    "from_email":  "mele@sweetspotslc.com",
+    "subject":  "where are my cups??",
+    "body":  "Hi, I ordered cups last week and still haven\u0027t gotten them. Can you check on it? We\u0027re running low.\n\nMele",
+    "language":  "English",
+    "category":  "Order Status",
+    "priority":  "P2",
+    "needs_human":  "No",
+    "needs_human_reason":  "Order status answered straight from order history (shipped, in transit, tracking and ETA on file).",
+    "summary":  "\u0027Where are my cups?\u0027 Order UQ-10482 shipped 3/4 via UPS, in transit, estimated delivery Tue 3/9. The customer is running low.",
+    "draft_reply":  "Hi Mele,\n\nGood news: your cups are on the way and scheduled to arrive tomorrow. Order UQ-10482 (5 cases of 8 oz striped cups + 2 cases of paper lids) shipped Thursday, March 4 via UPS, with an estimated delivery of Tuesday, March 9.\n\nTracking number: 1Z84X9A20391827364\n\nIf it hasn\u0027t shown up by end of day Tuesday, just reply here and we\u0027ll jump on it.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10482"
+                   ],
+    "flags":  [
+                  "existing_customer",
+                  "cup_club_member",
+                  "in_transit",
+                  "running_low"
+              ],
+    "assumptions":  [
+                        "\u0027Ordered cups last week\u0027 matched to UQ-10482 (ordered 3/3); the earlier order UQ-10461 was delivered 2/11."
+                    ],
+    "owner_note":  "",
+    "quote":  ""
+}

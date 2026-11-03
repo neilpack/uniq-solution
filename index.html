@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UNIQ Inbox</title>
+  <link rel="stylesheet" href="app/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">U</span>
+      <div>
+        <h1>UNIQ Inbox</h1>
+        <p class="sub" id="meta">Loading results...</p>
+      </div>
+    </div>
+    <div class="top-actions">
+      <button class="btn ghost" id="helpBtn" type="button">Process new emails</button>
+      <label class="btn ghost file-btn">Load results.csv
+        <input type="file" id="csvInput" accept=".csv,text/csv" hidden>
+      </label>
+      <button class="btn" id="exportBtn" type="button">Download CSV</button>
+      <button class="btn icon" id="themeBtn" type="button" title="Toggle light/dark" aria-label="Toggle light/dark theme">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="tiles" id="tiles" aria-label="Inbox summary"></section>
+
+    <section class="owner" id="ownerPanel" aria-label="Owner queue">
+      <div class="section-head">
+        <h2>Owner queue</h2>
+        <span class="muted" id="ownerCount"></span>
+      </div>
+      <ol class="owner-list" id="ownerList"></ol>
+    </section>
+
+    <section class="workspace">
+      <div class="list-pane">
+        <div class="filters">
+          <input type="search" id="search" placeholder="Search sender, subject, body..." aria-label="Search">
+          <div class="chips" id="prioChips" role="group" aria-label="Filter by priority"></div>
+          <div class="filter-row">
+            <select id="catFilter" aria-label="Filter by category"><option value="">All categories</option></select>
+            <label class="check"><input type="checkbox" id="humanOnly"> Needs human</label>
+            <label class="check"><input type="checkbox" id="hideSent"> Hide sent</label>
+          </div>
+          <div class="filter-row">
+            <label class="muted small" for="sortBy">Sort</label>
+            <select id="sortBy" aria-label="Sort">
+              <option value="priority">Priority</option>
+              <option value="id">Email ID</option>
+              <option value="received">Received (oldest first)</option>
+            </select>
+          </div>
+        </div>
+        <ul class="email-list" id="emailList" aria-label="Emails"></ul>
+      </div>
+
+      <article class="detail" id="detail" aria-live="polite">
+        <div class="empty">Select an email to review its triage, quote, and draft reply.</div>
+      </article>
+    </section>
+  </main>
+
+  <dialog id="helpDialog">
+    <form method="dialog">
+      <h2>Process new emails</h2>
+      <p>The AI work happens in <strong>Claude Code</strong> with the <code>/uniq-inbox</code> skill. Open Claude Code in this folder and run one of these:</p>
+      <div class="cmd"><code>/uniq-inbox all</code><button class="btn small" type="button" data-copy="/uniq-inbox all">Copy</button></div>
+      <p class="muted small">Processes every email in packet/inbox.csv. To run a new batch, replace that file (same columns) or pass a path: <code>/uniq-inbox inbox/tuesday.csv</code></p>
+      <div class="cmd"><code>/uniq-inbox E07</code><button class="btn small" type="button" data-copy="/uniq-inbox E07">Copy</button></div>
+      <p class="muted small">Re-runs a single email by ID.</p>
+      <div class="cmd"><code>/uniq-inbox &lt;paste the email here&gt;</code><button class="btn small" type="button" data-copy="/uniq-inbox ">Copy</button></div>
+      <p class="muted small">Handles one pasted email (gets the next free ID, e.g. E21).</p>
+      <p>When it finishes, <strong>reload this page</strong>. It reads <code>results/results.js</code>, which the skill rebuilds automatically.</p>
+      <div class="dialog-actions"><button class="btn" value="close">Done</button></div>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="results/results.js"></script>
+  <script src="app/app.js"></script>
+</body>
+</html>

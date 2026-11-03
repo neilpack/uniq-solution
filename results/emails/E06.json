@@ -1,0 +1,28 @@
+{
+    "email_id":  "E06",
+    "received_at":  "2027-03-07 16:45",
+    "from_name":  "Kelsey Andersen",
+    "from_email":  "kelsey.andersen@gmail.com",
+    "subject":  "8 oz kraft cups",
+    "body":  "Hi do you have the 8 oz kraft paper cups in stock? I need 2 cases for my coffee cart. How much would shipping be to Rexburg ID 83440?\n\nthanks!\nKelsey",
+    "language":  "English",
+    "category":  "Stock Order / Product Question",
+    "priority":  "P3",
+    "needs_human":  "No",
+    "needs_human_reason":  "Simple stock question answered from the catalog. Shipping is calculated at checkout per policy (not guessed).",
+    "summary":  "Coffee cart wants 2 cases of 8 oz kraft hot cups (KR-08, in stock, $159.98) and a shipping quote to Rexburg. Told her shipping is calculated at checkout, with a Cup Club tip.",
+    "draft_reply":  "Hi Kelsey,\n\nYes, our 8 oz kraft hot cups (KR-08) are in stock. 2 cases (1,000 cups each) are 2 x $79.99 = $159.98.\n\nWe can\u0027t quote shipping by email, since it\u0027s calculated at checkout based on weight and ZIP code. You\u0027ll see the exact amount for 83440 before you pay.\n\nA money-saving tip: our Cup Club Rewards is free to join and gives free ground shipping on stock orders of $199 or more. For example, adding a case of our black 8 oz hot cup lids (LID-80B, $49.99) brings you to $209.97, over the line.\n\nOrders placed before 2 pm ship within 1 business day.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "new_customer",
+                  "stock_in_stock",
+                  "no_shipping_guess"
+              ],
+    "assumptions":  [
+
+                    ],
+    "owner_note":  "",
+    "quote":  ""
+}

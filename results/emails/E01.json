@@ -1,0 +1,30 @@
+{
+    "email_id":  "E01",
+    "received_at":  "2027-03-05 18:42",
+    "from_name":  "Jenna Whitaker",
+    "from_email":  "jenna@froyofiesta.com",
+    "subject":  "custom cups quote?",
+    "body":  "Hi! We own Froyo Fiesta (2 locations in Mesa, AZ). We want our logo printed on 8oz cups. It\u0027s 2 colors (pink + teal, we have the pantone numbers). Thinking 20,000 cups. We need them in hand by April 15 for our spring promo. Can you do that and what would it cost?\n\nThx!\nJenna",
+    "language":  "English",
+    "category":  "Custom Quote",
+    "priority":  "P2",
+    "needs_human":  "No",
+    "needs_human_reason":  "$2,600 is under $5k, Apr 15 fits the standard 3-4 week USA lead time, Pantone is available on that path, everything answered from the KB.",
+    "summary":  "Existing customer wants 20k 8 oz 2-color PMS cups in hand by Apr 15. USA partner, $2,600, on track if the proof is approved this week.",
+    "draft_reply":  "Hi Jenna,\n\nYes, we can do this, and April 15 works if we get your proof approved this week. 20,000 8 oz cups with your 2-color pink + teal logo come to $2,600.00 total, printed by our USA partner with exact Pantone matching.\n\n20,000 x $0.115 = $2,300.00\nSetup: 2 colors x $150 = $300.00\nFreight: free (lower 48, over $2,500)\nTotal: $2,600.00\n\nTiming: production takes 3-4 weeks after you approve the digital proof. If the proof is approved by Tuesday, March 9, the cups would ship around March 30 - April 6, which should leave time for transit to Mesa before April 15. We can\u0027t guarantee a delivery date, so the sooner the proof is approved, the more cushion you have.\n\nTo get started, just send:\n- Your logo as a vector file (AI, EPS, PDF, or SVG)\n- Your two Pantone numbers\n- The ship-to address\n\nWe\u0027ll get the proof right over to you. A 50% deposit starts production and the balance is due before shipping. This quote is an estimate, good for 30 days, and doesn\u0027t include sales tax.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10251"
+                   ],
+    "flags":  [
+                  "existing_customer",
+                  "cup_club_member",
+                  "pms_required",
+                  "deadline_on_track"
+              ],
+    "assumptions":  [
+                        "Ships to Mesa, AZ (lower 48).",
+                        "Proof approval assumed by Tue Mar 9 for the ship window."
+                    ],
+    "owner_note":  "",
+    "quote":  "REQUEST: 20,000 x 8 oz custom cups, 2 colors (PMS match)\n\nRECOMMENDED: USA partner (flexographic) (20,000 x 8 oz)\n  Cups: 20,000 x $0.115 = $2,300.00\n  Setup (plates): 2 color(s) x $150.00 = $300.00\n  Subtotal: $2,600.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $2,600.00\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Thu Apr 15: on track\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups; customer needs an exact Pantone match; in-house digital is close match only, no PMS guarantee\n  Overseas (offset): Overseas (offset) minimum is 50,000 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order."
+}

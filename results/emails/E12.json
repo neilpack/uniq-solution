@@ -1,0 +1,30 @@
+{
+    "email_id":  "E12",
+    "received_at":  "2027-03-08 09:15",
+    "from_name":  "Etienne Gagnon",
+    "from_email":  "etienne@cremerieboreale.ca",
+    "subject":  "Shipping to Canada?",
+    "body":  "Bonjour,\n\nWe run a small crèmerie in Montréal. Do you ship custom cups to Canada? We would want about 30,000 12oz cups with our logo. Please send a price that includes shipping and duties.\n\nMerci,\nÉtienne Gagnon\nCrèmerie Boréale",
+    "language":  "French",
+    "category":  "Custom Quote",
+    "priority":  "P2",
+    "needs_human":  "Yes",
+    "needs_human_reason":  "Shipping to Canada, outside the lower 48 (rule 4): there\u0027s no standard freight rate, and duties aren\u0027t covered by the KB (rule 7).",
+    "summary":  "Montréal crèmerie wants 30k 12 oz custom cups with a price including shipping and duties. Cups $3,450-$3,600 (1-2 colors) via USA partner; the owner must quote freight and duties. Reply in French.",
+    "draft_reply":  "Bonjour Étienne,\n\nOui, nous pouvons imprimer vos gobelets, mais nous n\u0027avons pas de tarif standard pour l\u0027expédition au Canada. Notre propriétaire vous contactera directement avec le prix du transport et des droits de douane.\n\nVoici le prix des gobelets pour 30 000 gobelets de 12 oz, imprimés par notre partenaire aux États-Unis (impression flexographique, correspondance Pantone possible) :\n\n30 000 x 0,11 $ = 3 300,00 $\nFrais de clichés : 150 $ par couleur\nSous-total : 3 450,00 $ (logo 1 couleur) ou 3 600,00 $ (logo 2 couleurs)\nTransport et droits : à confirmer par notre propriétaire\n\nDélai : 3 à 4 semaines après l\u0027approbation de l\u0027épreuve numérique, plus le transport.\n\nPourriez-vous nous indiquer le nombre de couleurs de votre logo et nous envoyer le fichier vectoriel (AI, EPS, PDF ou SVG), ainsi que votre adresse de livraison complète ? Un acompte de 50 % lance la production et le solde est dû avant l\u0027expédition. Ce devis est une estimation valable 30 jours, taxes non comprises.\n\nMerci,\nThe UNIQ Supply Team",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "outside_lower48",
+                  "canada",
+                  "non_english",
+                  "new_customer"
+              ],
+    "assumptions":  [
+                        "Logo color count not given, so quoted 1 and 2 colors.",
+                        "Prices shown in our standard (USD) pricing; the owner should confirm currency for a Canadian customer."
+                    ],
+    "owner_note":  "Quote freight and duties to Montréal. Cups subtotal is $3,450 (1 color) or $3,600 (2 colors).",
+    "quote":  "Color count not given, so quoted both:\n\n--- If the logo is 1 color(s) ---\nREQUEST: 30,000 x 12 oz custom cups, 1 color\n\nRECOMMENDED: USA partner (flexographic) (30,000 x 12 oz)\n  Cups: 30,000 x $0.11 = $3,300.00\n  Setup (plates): 1 color(s) x $150.00 = $150.00\n  Subtotal: $3,450.00\n  Freight: outside the lower 48, no standard rate. The owner will quote freight (and any duties)\n  TOTAL: $3,450.00 + freight TBD\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups\n  Overseas (offset): Overseas (offset) minimum is 50,000 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order.\n\n--- If the logo is 2 color(s) ---\nREQUEST: 30,000 x 12 oz custom cups, 2 colors\n\nRECOMMENDED: USA partner (flexographic) (30,000 x 12 oz)\n  Cups: 30,000 x $0.11 = $3,300.00\n  Setup (plates): 2 color(s) x $150.00 = $300.00\n  Subtotal: $3,600.00\n  Freight: outside the lower 48, no standard rate. The owner will quote freight (and any duties)\n  TOTAL: $3,600.00 + freight TBD\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups\n  Overseas (offset): Overseas (offset) minimum is 50,000 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order."
+}

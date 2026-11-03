@@ -1,0 +1,27 @@
+{
+    "email_id":  "E11",
+    "received_at":  "2027-03-08 09:02",
+    "from_name":  "Sofia Marchetti",
+    "from_email":  "sofia@greenleafkitchen.com",
+    "subject":  "compostable cups for soup?",
+    "body":  "Hi UNIQ team!\n\nWe\u0027re switching our restaurant to eco-friendly packaging. Can we use your 12oz compostable cups for our hot soups? They go out at about 165°F. Also, can our customers toss them in their home compost bin?\n\nThanks so much,\nSofia\nGreenleaf Kitchen",
+    "language":  "English",
+    "category":  "Stock Order / Product Question",
+    "priority":  "P3",
+    "needs_human":  "No",
+    "needs_human_reason":  "Both questions are answered directly by the KB product facts (PLA rated to 110°F; commercially compostable only). No hot-food container is suggested because the KB doesn\u0027t list one.",
+    "summary":  "Restaurant asks whether 12 oz compostable cups work for 165°F soup and for home compost. No to both (110°F max, commercial compost only).",
+    "draft_reply":  "Hi Sofia,\n\nUnfortunately our 12 oz compostable cups won\u0027t work for hot soup, and they aren\u0027t home compostable. The PLA lining is rated up to 110°F (43°C), so 165°F soup is too hot for them, and they\u0027re commercially compostable only, meaning they need an industrial composting facility rather than a backyard bin.\n\nThey\u0027re a great fit for ice cream, frozen yogurt, and other cold foods. Our kraft hot cups are rated for hot drinks up to 190°F, but we don\u0027t list a container rated for hot food like soup, so we\u0027d rather not guess on that one.\n\nLove that you\u0027re making the switch to eco-friendly packaging!\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10402"
+                   ],
+    "flags":  [
+                  "existing_customer",
+                  "product_safety_question"
+              ],
+    "assumptions":  [
+
+                    ],
+    "owner_note":  "",
+    "quote":  ""
+}

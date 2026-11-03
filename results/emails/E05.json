@@ -1,0 +1,32 @@
+{
+    "email_id":  "E05",
+    "received_at":  "2027-03-07 14:10",
+    "from_name":  "Tyrell Okafor",
+    "from_email":  "tyrell@bigskyfestival.org",
+    "subject":  "URGENT 60k cups for festival",
+    "body":  "Hi,\n\nWe run the Big Sky Summer Kickoff. We need 60,000 8oz cups with our 3-color logo, delivered to Bozeman, MT by April 5. I heard overseas is the cheapest option so can we get overseas pricing?\n\nI need a firm yes/no TODAY so I can lock in our vendor list.\n\nTyrell Okafor\nOperations Director",
+    "language":  "English",
+    "category":  "Custom Quote",
+    "priority":  "P1",
+    "needs_human":  "Yes",
+    "needs_human_reason":  "Order is $6,390+, over $5,000 (rule 1). Delivery by Apr 5 needs a firm date tighter than standard lead times or a rush, and only the owner can confirm a rush (rule 2).",
+    "summary":  "Festival needs 60k 8 oz 3-color cups in Bozeman by Apr 5 and wants a firm yes today. Overseas can\u0027t make it. USA standard $6,390 is tight; 2-week rush $7,281 needs owner approval.",
+    "draft_reply":  "Hi Tyrell,\n\nI can\u0027t give you a firm yes on April 5 today, but here\u0027s exactly where things stand. Overseas can\u0027t make it (10-12 weeks after proof approval). Our USA partner can print your 60,000 3-color cups, and our owner will confirm directly whether we can lock in April 5.\n\nUSA partner, standard (3-4 weeks after proof approval)\n60,000 x $0.099 ($0.089 + $0.010 for the 3rd color) = $5,940.00\nSetup: 3 colors x $150 = $450.00\nFreight: free (lower 48)\nTotal: $6,390.00\nWith the proof approved by March 9, these ship around March 30 - April 6, before transit, so April 5 is at risk.\n\nUSA partner, 2-week rush (may be available, owner must confirm)\nCups: $5,940.00 + 15% rush ($891.00)\nSetup: $450.00\nTotal: $7,281.00\nWith the proof approved by March 9, a rush would ship around March 23.\n\nTo keep April 5 possible, please send your logo as a vector file (AI, EPS, PDF, or SVG) and the Bozeman delivery address today so we can get a proof to you right away. A 50% deposit starts production and the balance is due before shipping. Quotes are estimates, good for 30 days, and don\u0027t include sales tax.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "new_customer",
+                  "value_over_5k",
+                  "rush_needed",
+                  "deadline_tight",
+                  "wants_answer_today",
+                  "overseas_not_feasible"
+              ],
+    "assumptions":  [
+                        "\u0027Delivered to Bozeman by April 5\u0027 treated as the need-by date.",
+                        "Bozeman, MT is in the lower 48."
+                    ],
+    "owner_note":  "Needs a yes/no TODAY. Standard USA ships Mar 30-Apr 6 before transit, so Apr 5 realistically needs the 2-week rush ($7,281 total). Decide on the rush and call him; he\u0027s locking his vendor list today.",
+    "quote":  "REQUEST: 60,000 x 8 oz custom cups, 3 colors\n\nRECOMMENDED: USA partner (flexographic) (60,000 x 8 oz)\n  Cups: 60,000 x $0.099 ($0.089 base + $0.010 x 1 color(s) beyond the 2 included) = $5,940.00\n  Setup (plates): 3 color(s) x $150.00 = $450.00\n  Subtotal: $6,390.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $6,390.00\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Mon Apr 5: tight\n  Color: Pantone (PMS) matching available.\n\nALSO AVAILABLE: Overseas (offset) (60,000 x 8 oz)\n  Cups: 60,000 x $0.062 = $3,720.00\n  Setup: flat $400.00 per design\n  Subtotal: $4,120.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $4,120.00\n  Lead time: 10-12 weeks after proof approval (includes ocean freight); ships approx Tue May 18 - Tue Jun 1 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Mon Apr 5: misses\n  Color: Pantone (PMS) matching available.\n\nRUSH OPTION (owner must confirm): USA partner (flexographic) - RUSH (60,000 x 8 oz)\n  Cups: 60,000 x $0.099 ($0.089 base + $0.010 x 1 color(s) beyond the 2 included) = $5,940.00\n  Rush surcharge: $5,940.00 x 15% = $891.00 (cup cost only; rush must be confirmed by the owner)\n  Setup (plates): 3 color(s) x $150.00 = $450.00\n  Subtotal: $7,281.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $7,281.00\n  Lead time: 2-week rush after proof approval (only if the owner confirms); ships approx Tue Mar 23 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Mon Apr 5: on track\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order."
+}

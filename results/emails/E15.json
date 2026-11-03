@@ -1,0 +1,26 @@
+{
+    "email_id":  "E15",
+    "received_at":  "2027-03-07 20:00",
+    "from_name":  "Ashley at RankRocket",
+    "from_email":  "ashley@rankrocketseo.io",
+    "subject":  "Get your store on page 1 of Google 🚀",
+    "body":  "Hi there!\n\nI noticed your website isn\u0027t ranking for \"ice cream cups wholesale.\" Our team has helped 500+ ecommerce brands 10x their organic traffic. Do you have 15 minutes this week for a quick call?\n\nAshley\nGrowth Lead, RankRocket SEO",
+    "language":  "English",
+    "category":  "Vendor Pitch",
+    "priority":  "P4",
+    "needs_human":  "No",
+    "needs_human_reason":  "Unsolicited vendor sales pitch. No customer, no risk, nothing to decide.",
+    "summary":  "Cold SEO agency pitch asking for a 15-minute call.",
+    "draft_reply":  "No reply - unsolicited SEO sales pitch, not a customer.",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "vendor_pitch"
+              ],
+    "assumptions":  [
+
+                    ],
+    "owner_note":  "",
+    "quote":  ""
+}

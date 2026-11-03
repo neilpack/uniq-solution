@@ -1,0 +1,30 @@
+{
+    "email_id":  "E08",
+    "received_at":  "2027-03-08 07:48",
+    "from_name":  "Hannah Pruitt",
+    "from_email":  "hannah@thedailyscoop.com",
+    "subject":  "Cup color is wrong",
+    "body":  "Hi,\n\nWe got our custom cups a few weeks ago and finally opened them. The blue in our logo is noticeably lighter than our brand blue (Pantone 286). This is not what we paid for and honestly it\u0027s embarrassing to hand these to customers.\n\nI want them reprinted.\n\nHannah Pruitt\nOwner, The Daily Scoop",
+    "language":  "English",
+    "category":  "Damage / Complaint",
+    "priority":  "P2",
+    "needs_human":  "Yes",
+    "needs_human_reason":  "Complaint about a custom order from an upset customer asking for a reprint outside policy (rule 5).",
+    "summary":  "Owner of The Daily Scoop says the blue on her in-house digital cups (UQ-10391) is lighter than Pantone 286 and wants a reprint. Her proof stated close match / no PMS guarantee, and delivery was 24 days ago, so policy says it\u0027s not a defect.",
+    "draft_reply":  "Hi Hannah,\n\nI\u0027m sorry the blue isn\u0027t what you were hoping for. Your cups are what your customers see, and I understand why this matters. Our owner is personally reviewing your order and will reach out to you directly.\n\nSo you have the full picture: your cups (order UQ-10391) were printed on our in-house digital press, which gives a close color match but can\u0027t guarantee an exact Pantone like 286. The proof approved on January 28 noted that, so I can\u0027t promise a reprint here, but our owner will go over the options with you.\n\nFor future orders, our USA partner prints with exact Pantone matching (minimum 10,000 cups), so your blue would match exactly.\n\nIf you can send a photo of the cups next to your brand blue, it will help with the review.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10391"
+                   ],
+    "flags":  [
+                  "existing_customer",
+                  "custom_order_complaint",
+                  "upset_customer",
+                  "outside_defect_window",
+                  "not_a_defect_per_policy"
+              ],
+    "assumptions":  [
+
+                    ],
+    "owner_note":  "In-house digital order; the proof (approved 1/28) stated close match, no PMS guarantee. Delivered 2/12, 24 days ago, past the 14-day defect window. Per policy it\u0027s not a defect. Your call on any goodwill gesture; upselling her to USA flexo with PMS for the next order fixes it for good.",
+    "quote":  ""
+}

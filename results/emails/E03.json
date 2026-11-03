@@ -1,0 +1,32 @@
+{
+    "email_id":  "E03",
+    "received_at":  "2027-03-06 22:03",
+    "from_name":  "Dana Ruiz",
+    "from_email":  "druiz@sweetbasincreamery.com",
+    "subject":  "Re: cups",
+    "body":  "hey, Dana here, I run ops at Sweet Basin Creamery. we\u0027ve got 14 shops across Utah and Idaho and our current cup vendor has honestly been a mess this year.\n\nlooking at ~150k 16oz cups for the season starting in May. need our exact brand colors matched (PMS 2347 C and black). could also do 8oz later in the year.\n\nwho do I talk to about pricing? no rush, just send something over when you can.\n\n- Dana",
+    "language":  "English",
+    "category":  "Custom Quote",
+    "priority":  "P1",
+    "needs_human":  "Yes",
+    "needs_human_reason":  "Estimated order value $10,900-$16,650 is over $5,000 (rule 1). Delivery split across 14 shops isn\u0027t covered by the KB (rule 7).",
+    "summary":  "14-shop chain (UT/ID) unhappy with its current vendor wants ~150k 16 oz cups, PMS 2347 C + black, for a May season start. Overseas $10,900 (lands late May) vs USA $16,650 (ready early April).",
+    "draft_reply":  "Hi Dana,\n\nThanks for thinking of us. For ~150,000 16 oz cups with an exact PMS 2347 C + black match, you have two good options: $10,900.00 overseas or $16,650.00 from our USA partner. The right one depends on how early in May you need cups in hand.\n\nOption 1: Overseas (offset), best price\n150,000 x $0.07 = $10,500.00\nSetup: $400.00 flat\nFreight: free (lower 48)\nTotal: $10,900.00\nLead time: 10-12 weeks after proof approval, ocean freight included. With the proof approved this week, that\u0027s roughly May 18 - June 1.\n\nOption 2: USA partner (flexographic), faster\n150,000 x $0.109 = $16,350.00\nSetup: 2 colors x $150 = $300.00\nFreight: free (lower 48)\nTotal: $16,650.00\nLead time: 3-4 weeks after proof approval, so they\u0027d ship around early April, well ahead of May.\n\nBoth include Pantone matching. Because this is a big order across 14 locations, our owner will personally follow up to work through delivery details and the 8 oz cups you mentioned for later in the year.\n\nTo keep things moving, send your logo as a vector file (AI, EPS, PDF, or SVG) and where the cups should ship. A 50% deposit starts production and the balance is due before shipping. Quotes are estimates, good for 30 days, and don\u0027t include sales tax.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "new_account",
+                  "value_over_5k",
+                  "pms_required",
+                  "multi_location",
+                  "competitor_switch"
+              ],
+    "assumptions":  [
+                        "\u0027Season starting in May\u0027 read as need-by 2027-05-01; the overseas window misses early May but lands late May.",
+                        "\u0027Re: cups\u0027 subject, but there\u0027s no prior order history, so treated as a new prospect.",
+                        "Ships within UT/ID (lower 48)."
+                    ],
+    "owner_note":  "Biggest opportunity in the inbox: a 14-shop chain frustrated with its current vendor. Overseas saves about $5,750 but arrives late May; USA is ready early April. Worth a personal call.",
+    "quote":  "REQUEST: 150,000 x 16 oz custom cups, 2 colors (PMS match)\n\nRECOMMENDED: USA partner (flexographic) (150,000 x 16 oz)\n  Cups: 150,000 x $0.109 = $16,350.00\n  Setup (plates): 2 color(s) x $150.00 = $300.00\n  Subtotal: $16,650.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $16,650.00\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Sat May 1: on track\n  Color: Pantone (PMS) matching available.\n\nALSO AVAILABLE: Overseas (offset) (150,000 x 16 oz)\n  Cups: 150,000 x $0.07 = $10,500.00\n  Setup: flat $400.00 per design\n  Subtotal: $10,900.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $10,900.00\n  Lead time: 10-12 weeks after proof approval (includes ocean freight); ships approx Tue May 18 - Tue Jun 1 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Sat May 1: misses\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital does not offer 16 oz (sizes: 8, 12 oz); In-house digital maximum is 9,999 cups; customer needs an exact Pantone match; in-house digital is close match only, no PMS guarantee\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order."
+}

@@ -1,0 +1,63 @@
+{
+  "_note": "Single source of truth for CUSTOM cup pricing used by tools/quote.ps1. Mirrors packet/knowledge_base.md Section 1. If the knowledge base pricing changes, update this file too.",
+  "today": "2027-03-08",
+  "escalation_order_value": 5000,
+  "shipping": {
+    "free_freight_threshold": 2500,
+    "flat_rate_under_threshold": 95,
+    "outside_lower48": "No standard rate. Escalate to the owner."
+  },
+  "paths": {
+    "inhouse": {
+      "name": "In-house digital",
+      "sizes": [8, 12],
+      "min_qty": 1000,
+      "max_qty": 9999,
+      "multiple": 1000,
+      "colors": "Full color included (gradients and photos are fine)",
+      "pms": false,
+      "color_note": "Close color match only. No Pantone (PMS) guarantee.",
+      "setup": { "type": "none" },
+      "lead": { "unit": "business_days", "min": 7, "max": 10 },
+      "tiers": [
+        { "min": 1000, "max": 9999, "prices": { "8": 0.22, "12": 0.26 } }
+      ]
+    },
+    "usa": {
+      "name": "USA partner (flexographic)",
+      "sizes": [8, 12, 16],
+      "min_qty": 10000,
+      "max_qty": null,
+      "multiple": 1000,
+      "max_colors": 4,
+      "included_colors": 2,
+      "extra_color_per_cup": 0.010,
+      "pms": true,
+      "color_note": "Pantone (PMS) matching available.",
+      "setup": { "type": "per_color", "amount": 150, "waived_on_reorder": true },
+      "lead": { "unit": "weeks", "min": 3, "max": 4 },
+      "rush": { "weeks": 2, "cup_cost_surcharge": 0.15, "note": "Rush MAY be available. Only the owner can confirm a rush. Surcharge applies to cup cost only, not setup." },
+      "tiers": [
+        { "min": 10000, "max": 24999, "prices": { "8": 0.115, "12": 0.128, "16": 0.142 } },
+        { "min": 25000, "max": 49999, "prices": { "8": 0.098, "12": 0.110, "16": 0.121 } },
+        { "min": 50000, "max": null,  "prices": { "8": 0.089, "12": 0.099, "16": 0.109 } }
+      ]
+    },
+    "overseas": {
+      "name": "Overseas (offset)",
+      "sizes": [8, 12, 16],
+      "min_qty": 50000,
+      "max_qty": null,
+      "multiple": 1000,
+      "colors": "Full color included",
+      "pms": true,
+      "color_note": "Pantone (PMS) matching available.",
+      "setup": { "type": "flat", "amount": 400 },
+      "lead": { "unit": "weeks", "min": 10, "max": 12, "note": "Includes ocean freight." },
+      "tiers": [
+        { "min": 50000, "max": 99999, "prices": { "8": 0.062, "12": 0.071, "16": 0.079 } },
+        { "min": 100000, "max": null, "prices": { "8": 0.055, "12": 0.063, "16": 0.070 } }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "email_id":  "E20",
+    "received_at":  "2027-03-08 11:00",
+    "from_name":  "Jamie Cho",
+    "from_email":  "jamie@pinkspoonfroyo.com",
+    "subject":  "you guys rock",
+    "body":  "Just wanted to say the custom cups came out amazing. Our customers keep posting pictures of them on Instagram! We\u0027ll definitely be back.\n\nJamie\nPink Spoon Froyo",
+    "language":  "English",
+    "category":  "Feedback / Praise",
+    "priority":  "P3",
+    "needs_human":  "No",
+    "needs_human_reason":  "Positive feedback with no request. A short thank-you is safe to send.",
+    "summary":  "Happy custom-cup customer (UQ-10204): customers are posting the cups on Instagram, and they\u0027ll be back. Send a short thank-you.",
+    "draft_reply":  "Hi Jamie,\n\nThank you, this made our morning! We love hearing that your customers are showing off the cups on Instagram.\n\nWhenever you\u0027re ready to reorder, just reply here and we\u0027ll get you set up.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10204"
+                   ],
+    "flags":  [
+                  "existing_customer",
+                  "praise",
+                  "repeat_intent"
+              ],
+    "assumptions":  [
+
+                    ],
+    "owner_note":  "",
+    "quote":  ""
+}

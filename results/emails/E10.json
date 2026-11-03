@@ -1,0 +1,29 @@
+{
+    "email_id":  "E10",
+    "received_at":  "2027-03-08 08:41",
+    "from_name":  "Greg Hollis",
+    "from_email":  "greg@hollishospitality.com",
+    "subject":  "price match",
+    "body":  "I\u0027ve got a quote from another supplier for 20,000 12oz custom cups, made in USA, at 7 cents a cup. Your site says you\u0027re the #1 supplier, so prove it.\n\nMatch it and I\u0027ll order today. Otherwise I\u0027m going with them.\n\nGreg Hollis\nHollis Hospitality Group",
+    "language":  "English",
+    "category":  "Custom Quote",
+    "priority":  "P1",
+    "needs_human":  "Yes",
+    "needs_human_reason":  "Price-match request (rule 3). Staff can\u0027t match prices; only the owner can respond.",
+    "summary":  "Price-match ultimatum: match a competitor\u0027s 7 cents/cup for 20k 12 oz USA-made cups today or he walks. Our published price is $0.128/cup ($2,710-$2,860).",
+    "draft_reply":  "Hi Greg,\n\nThanks for giving us a shot at this. Our published price for 20,000 12 oz custom cups made in the USA is $0.128 a cup. I\u0027m not able to match 7 cents myself, so I\u0027ve passed your request to our owner, who handles all pricing requests and will get back to you directly.\n\nHere\u0027s our standard quote so you can compare:\n\n20,000 x $0.128 = $2,560.00\nSetup: $150 per ink color\nFreight: free (lower 48, over $2,500)\nTotal: $2,710.00 for a 1-color logo, or $2,860.00 for 2 colors\n\nThat includes USA flexographic printing with exact Pantone matching, a digital proof before anything prints, and shipping 3-4 weeks after proof approval.\n\nHow many colors is your logo, and where would the cups ship? Quotes are estimates, good for 30 days, and don\u0027t include sales tax.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "price_match_request",
+                  "ultimatum_today",
+                  "new_customer"
+              ],
+    "assumptions":  [
+                        "Logo color count not given, so quoted 1 and 2 colors.",
+                        "Destination not given; priced for the lower 48."
+                    ],
+    "owner_note":  "Ultimatum: match 7 cents today or he goes elsewhere. Published price is $0.128/cup ($2,710 for 1 color, $2,860 for 2). Decide today whether to respond beyond published pricing.",
+    "quote":  "Color count not given, so quoted both:\n\n--- If the logo is 1 color(s) ---\nREQUEST: 20,000 x 12 oz custom cups, 1 color\n\nRECOMMENDED: USA partner (flexographic) (20,000 x 12 oz)\n  Cups: 20,000 x $0.128 = $2,560.00\n  Setup (plates): 1 color(s) x $150.00 = $150.00\n  Subtotal: $2,710.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $2,710.00\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups\n  Overseas (offset): Overseas (offset) minimum is 50,000 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order.\nAssumption: priced for delivery in the lower 48; freight changes if it ships elsewhere.\n\n--- If the logo is 2 color(s) ---\nREQUEST: 20,000 x 12 oz custom cups, 2 colors\n\nRECOMMENDED: USA partner (flexographic) (20,000 x 12 oz)\n  Cups: 20,000 x $0.128 = $2,560.00\n  Setup (plates): 2 color(s) x $150.00 = $300.00\n  Subtotal: $2,860.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $2,860.00\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups\n  Overseas (offset): Overseas (offset) minimum is 50,000 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order.\nAssumption: priced for delivery in the lower 48; freight changes if it ships elsewhere."
+}

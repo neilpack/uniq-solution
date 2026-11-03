@@ -1,0 +1,29 @@
+{
+    "email_id":  "E07",
+    "received_at":  "2027-03-08 07:05",
+    "from_name":  "Luis Romero",
+    "from_email":  "luis@desertswirl.com",
+    "subject":  "Crushed boxes",
+    "body":  "Our order came Friday and 2 of the 6 cases of 12 oz cups were crushed. Cups are bent and unusable. Pics attached.\n\nNot happy. We need these for the weekend.\n\nLuis Romero\nDesert Swirl Frozen Yogurt",
+    "language":  "English",
+    "category":  "Damage / Complaint",
+    "priority":  "P2",
+    "needs_human":  "No",
+    "needs_human_reason":  "Stock shipping damage reported 3 days after delivery with photos, within the 7-day policy. Free replacement is standard, nothing outside policy.",
+    "summary":  "2 of 6 cases of IC-12P (order UQ-10455, delivered Fri 3/5) arrived crushed. Send 2 free replacement cases, no return needed. The customer needs them for the weekend.",
+    "draft_reply":  "Hi Luis,\n\nSorry about that. We\u0027ll send 2 replacement cases of the 12 oz polka dot cups (IC-12P) at no charge, and there\u0027s no need to send the crushed ones back.\n\nYour order (UQ-10455) was delivered Friday, so you\u0027re well within our 7-day window for shipping damage. Thanks for sending the photos.\n\nWe\u0027re processing the replacement today. Stock orders placed before 2 pm ship within 1 business day, and we\u0027ll send you tracking as soon as it\u0027s on the truck. We can\u0027t promise it arrives before the weekend, but we\u0027ll get it out as fast as we can.\n\nSorry again for the hassle,\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10455"
+                   ],
+    "flags":  [
+                  "existing_customer",
+                  "cup_club_member",
+                  "within_damage_window",
+                  "upset_customer"
+              ],
+    "assumptions":  [
+                        "Photos are attached, as the customer says. The team should confirm they show the damage."
+                    ],
+    "owner_note":  "",
+    "quote":  ""
+}

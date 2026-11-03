@@ -1,0 +1,28 @@
+{
+    "email_id":  "E13",
+    "received_at":  "2027-03-08 09:30",
+    "from_name":  "Brooke Tanner",
+    "from_email":  "brooke@sugarpinesweets.com",
+    "subject":  "Net 30?",
+    "body":  "Hi there,\n\nWe\u0027re a brand new shop (opening this summer) and would like to place a custom order, about 12,000 8oz cups with a 1 color logo. We\u0027d need Net 30 terms though. Is that possible?\n\nBrooke Tanner\nSugar Pine Sweets",
+    "language":  "English",
+    "category":  "Billing / Terms",
+    "priority":  "P3",
+    "needs_human":  "Yes",
+    "needs_human_reason":  "Payment-terms (Net 30) request (rule 3). The account has no order history, so it doesn\u0027t meet the 6-month requirement; only the owner can decide.",
+    "summary":  "Brand-new shop (opening this summer) wants 12k 8 oz 1-color cups ($1,625) on Net 30. Doesn\u0027t qualify (no history); standard 50% deposit terms explained; owner decides.",
+    "draft_reply":  "Hi Brooke,\n\nCongrats on the new shop! Net 30 is only available for accounts with at least 6 months of order history plus owner approval, so I can\u0027t offer it on a first order, but I\u0027ve passed your request to our owner, who will follow up. Our standard terms are a 50% deposit to start production, with the balance due before shipping (we take credit card and ACH).\n\nHere\u0027s your quote for 12,000 8 oz cups with a 1-color logo:\n\n12,000 x $0.115 = $1,380.00\nSetup: 1 color x $150 = $150.00\nFreight: $95.00 flat (orders under $2,500)\nTotal: $1,625.00\n\nThese are printed by our USA partner (Pantone matching available) and ship 3-4 weeks after you approve the digital proof, so there\u0027s plenty of time before summer. Whenever you\u0027re ready, send your logo as a vector file (AI, EPS, PDF, or SVG). This quote is an estimate, good for 30 days, and doesn\u0027t include sales tax.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "payment_terms_request",
+                  "new_customer",
+                  "no_order_history"
+              ],
+    "assumptions":  [
+                        "Ships within the lower 48 (location not stated)."
+                    ],
+    "owner_note":  "No order history, so not eligible for Net 30 under policy. Draft explains the standard deposit terms; your call if you want to make an exception.",
+    "quote":  "REQUEST: 12,000 x 8 oz custom cups, 1 color\n\nRECOMMENDED: USA partner (flexographic) (12,000 x 8 oz)\n  Cups: 12,000 x $0.115 = $1,380.00\n  Setup (plates): 1 color(s) x $150.00 = $150.00\n  Subtotal: $1,530.00\n  Freight: $95.00 flat (subtotal under $2,500.00)\n  TOTAL: $1,625.00\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups\n  Overseas (offset): Overseas (offset) minimum is 50,000 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order."
+}

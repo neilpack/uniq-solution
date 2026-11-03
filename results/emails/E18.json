@@ -1,0 +1,31 @@
+{
+    "email_id":  "E18",
+    "received_at":  "2027-03-08 10:22",
+    "from_name":  "Dave Lindqvist",
+    "from_email":  "dave@licketysplitcreamery.com",
+    "subject":  "reorder",
+    "body":  "Hey guys,\n\nSame cups as last spring but double it this time. Same logo, nothing changed. Need them by mid-April.\n\nThanks!\nDave\nLickety Split Creamery",
+    "language":  "English",
+    "category":  "Custom Quote",
+    "priority":  "P2",
+    "needs_human":  "No",
+    "needs_human_reason":  "$4,450 is under $5,000, it\u0027s an unchanged reorder with plates on file (no setup), and mid-April fits the standard 3-4 week lead time.",
+    "summary":  "Repeat customer wants to double last spring\u0027s order (UQ-10120: 25k 8 oz 2-color, LS-Logo-v2), so 50k, same design, by mid-April. USA partner, 50k tier $0.089, no setup: $4,450.",
+    "draft_reply":  "Hi Dave,\n\nGreat to hear from you! Doubling last spring\u0027s order means 50,000 8 oz cups with your unchanged 2-color logo (LS-Logo-v2), and it comes to $4,450.00 total, with no setup fee since your plates are on file.\n\n50,000 x $0.089 = $4,450.00\nSetup: $0 (unchanged design, plates on file)\nFreight: free (lower 48, over $2,500)\nTotal: $4,450.00\n\nBonus: at 50,000 cups you hit our best USA price tier, $0.089 a cup instead of the $0.098 you paid last time.\n\nTiming: our USA partner ships 3-4 weeks after proof approval. If you approve the proof by Tuesday, March 9, they\u0027d ship around March 30 - April 6, which should get them to you by mid-April. We can\u0027t guarantee a delivery date, so the sooner you approve, the more cushion you have.\n\nWe\u0027ll send a quick proof of your existing design to confirm. Just let us know if the ship-to address is the same as last time. A 50% deposit starts production and the balance is due before shipping. This quote is an estimate, good for 30 days, and doesn\u0027t include sales tax.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10120"
+                   ],
+    "flags":  [
+                  "repeat_customer",
+                  "reorder_no_setup",
+                  "price_tier_upgrade",
+                  "deadline_on_track"
+              ],
+    "assumptions":  [
+                        "\u0027Double it\u0027 = 2 x 25,000 = 50,000 cups.",
+                        "\u0027Mid-April\u0027 read as 2027-04-15.",
+                        "Same lower-48 ship-to as last order."
+                    ],
+    "owner_note":  "",
+    "quote":  "REQUEST: 50,000 x 8 oz custom cups, 2 colors, unchanged reorder\n\nRECOMMENDED: USA partner (flexographic) (50,000 x 8 oz)\n  Cups: 50,000 x $0.089 = $4,450.00\n  Setup: waived (unchanged reorder, plates on file) = $0.00\n  Subtotal: $4,450.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $4,450.00\n  Lead time: 3-4 weeks after proof approval; ships approx Tue Mar 30 - Tue Apr 6 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Thu Apr 15: on track\n  Color: Pantone (PMS) matching available.\n\nALSO AVAILABLE: Overseas (offset) (50,000 x 8 oz)\n  Cups: 50,000 x $0.062 = $3,100.00\n  Setup: flat $400.00 per design\n  Subtotal: $3,500.00\n  Freight: FREE (lower 48, subtotal is $2,500.00 or more)\n  TOTAL: $3,500.00\n  Lead time: 10-12 weeks after proof approval (includes ocean freight); ships approx Tue May 18 - Tue Jun 1 if the proof is approved by Tue Mar 9 (transit time not included)\n  Need-by Thu Apr 15: misses\n  Color: Pantone (PMS) matching available.\n\nNOT AVAILABLE AS ASKED:\n  In-house digital: In-house digital maximum is 9,999 cups\n\nTerms: estimate valid 30 days, excludes sales tax; 50% deposit to start, balance before shipping; digital proof with every order."
+}

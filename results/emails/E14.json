@@ -1,0 +1,29 @@
+{
+    "email_id":  "E14",
+    "received_at":  "2027-03-08 03:12",
+    "from_name":  "Shopify Billing",
+    "from_email":  "alerts@shopify-billing-support.co",
+    "subject":  "Action required: your store will be suspended in 24 hours",
+    "body":  "Dear Merchant,\n\nWe were unable to process your most recent subscription payment. To avoid suspension of your store, please verify your billing details within 24 hours:\n\nhttp://shopify-billing-support.co/verify-account\n\nFailure to verify will result in permanent loss of store data.\n\nShopify Billing Department",
+    "language":  "English",
+    "category":  "Spam / Phishing",
+    "priority":  "P4",
+    "needs_human":  "Yes",
+    "needs_human_reason":  "Suspected phishing / security risk (rule 6). The owner should know the store is being targeted, and nobody should click the link.",
+    "summary":  "Fake \u0027Shopify Billing\u0027 suspension notice from lookalike domain shopify-billing-support.co with a \u0027verify account\u0027 link. Phishing; do not click, do not reply.",
+    "draft_reply":  "No reply - suspected phishing. The sender domain (shopify-billing-support.co) is not Shopify, and the email uses a 24-hour suspension threat, a generic \u0027Dear Merchant\u0027 greeting, and a link to \u0027verify billing details\u0027. Do not click the link or reply. If there\u0027s any doubt about the Shopify bill, log in to Shopify directly (not through this email) and check billing there.",
+    "order_refs":  [
+
+                   ],
+    "flags":  [
+                  "phishing",
+                  "lookalike_domain",
+                  "credential_lure",
+                  "security"
+              ],
+    "assumptions":  [
+
+                    ],
+    "owner_note":  "Phishing attempt on the store\u0027s Shopify account. Delete it; consider warning the team so no one clicks.",
+    "quote":  ""
+}

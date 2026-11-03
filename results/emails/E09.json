@@ -1,0 +1,28 @@
+{
+    "email_id":  "E09",
+    "received_at":  "2027-03-08 08:20",
+    "from_name":  "Rob Kealoha",
+    "from_email":  "rob@mountainmamasshaveice.com",
+    "subject":  "return spoons",
+    "body":  "Aloha,\n\nWe bought 3 cases of the mixed color spoons and honestly the kids don\u0027t like them. We\u0027ve opened 2 of the cases. Can we return those 2 for a refund?\n\nRob\nMountain Mama\u0027s Shave Ice, Provo",
+    "language":  "English",
+    "category":  "Return / Refund",
+    "priority":  "P3",
+    "needs_human":  "No",
+    "needs_human_reason":  "Clear policy answer (opened cases are never returnable, and it\u0027s past the 30-day window). The customer is polite, not escalating.",
+    "summary":  "Wants to return 2 opened cases of SP-MIX spoons (UQ-10310, delivered 1/22, 45 days ago). Not returnable; offered an alternative product and a free sample box.",
+    "draft_reply":  "Hi Rob,\n\nSorry the spoons weren\u0027t a hit with the kids. Unfortunately we can\u0027t take those 2 cases back: opened cases can\u0027t be returned, and our return window is 30 days from delivery. Your order (UQ-10310) was delivered January 22.\n\nIf you\u0027d like to try something more fun next time, our Color Changing Spoons (SP-CC) go from yellow to green and are $109.99 per case of 1,000. We can also send you a free sample box so you can see them before you buy.\n\nThe UNIQ Supply Team",
+    "order_refs":  [
+                       "UQ-10310"
+                   ],
+    "flags":  [
+                  "existing_customer",
+                  "opened_cases",
+                  "outside_return_window"
+              ],
+    "assumptions":  [
+                        "\u0027Aloha\u0027 is a greeting only. The shop is in Provo, UT (lower 48), so the sample box is eligible."
+                    ],
+    "owner_note":  "",
+    "quote":  ""
+}

@@ -1,0 +1,25 @@
+YOUR TASK: Build an AI-powered tool that works through this inbox. It should sort each email,
+prioritize it, quote custom orders correctly using our pricing, draft a reply, and know when to hand
+an email to a human. Then run it on all 20 emails and send us the results.
+We judge the result, not the tool. A sharp custom GPT beats a broken web app. Build a web app that loads the CSVs and calls an AI model. (I have Claude installed so that will be the best option.). I am familiar with HTML, CSS, and JavaScript so please make an app with these tools. This folder called, "uniq-solution" is already a githut repository that is linked to my github, you can make your changes in here.
+
+Context: UNIQ Supply sells cups, spoons, lids, and to-go containers to ice cream, frozen yogurt, and coffee shops
+across the country through FrozenDessertSupplies.com. We also custom print cups with a shop's logo,
+which is our favorite part of the business.
+It's Monday, March 8, 2027, 7:00 a.m. Spring is our busy season. Over the weekend, 20 emails piled up:
+quote requests, an angry customer or two, a few easy questions, and a couple of emails that should never
+get a reply.
+Today our team answers every email by hand. They look up pricing in one place, policies in another, and
+order history in a third. One custom cup quote takes 15 to 20 minutes. By April this inbox will be three times
+bigger.
+
+Build the thing we would use on Tuesday, not only a set of answers for Monday. If we pasted in 20 new
+emails tomorrow, your tool should handle them too.
+
+inside the packet folder in this is the files that you will need to solve this problem:
+inbox.csv The 20 emails (ID, time, sender, subject, body)
+inbox.txt The same 20 emails as plain text, if that's easier to paste
+orders.csv Recent order history: what customers bought, when it shipped, when it was delivered, tracking numbers
+knowledge_base.md Our pricing, production options, policies, escalation rules, and brand voice. The same content is printed at the end of this brief.
+
+A tip: read the knowledge base carefully, and read every email carefully. Details matter. Some emails are not what they look like at first.
